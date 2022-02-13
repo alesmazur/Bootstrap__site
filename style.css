@@ -1,0 +1,17 @@
+.main__image {
+  border-radius: 50%;
+  box-shadow: 8px 15px 25px rgba(26, 9, 9, 0.5);
+  box-shadow: inset 2px 2px rgba(73, 70, 70, 0.2);
+  padding: 0.2em;
+  padding-bottom: 1em;
+}
+
+.row {
+  margin: 0 auto;
+}
+.navbar-brand {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+}
